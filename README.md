@@ -54,7 +54,7 @@ No additional package managers (vcpkg, Conan) are required.
 ## Build Instructions (Visual Studio)
 
 1. Create a new **Console App (C++)** project named `TradeX`
-2. Add all source files from the `src/` directory
+2. Add all source files from the directory
 3. Install the NuGet package:
    - nlohmann.json
 4. Set the C++ language standard:
